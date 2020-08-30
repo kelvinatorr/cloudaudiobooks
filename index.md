@@ -6,4 +6,4 @@ Lol cats.
 leet code
 ```
 
-[Link to about page](/about)
+[Link to about page](./about)
