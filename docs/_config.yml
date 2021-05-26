@@ -1,5 +1,1 @@
-title: "Cloud Audio Books"
-description: The greatest audio book player evar.
-
-theme: jekyll-theme-hacker
-show_downloads: true
+show_downloads: false
